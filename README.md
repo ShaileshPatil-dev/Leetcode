@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0066-plus-one) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0867-transpose-matrix) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
