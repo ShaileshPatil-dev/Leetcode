@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0066-plus-one) |
+| [0704-binary-search](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0867-transpose-matrix) |
@@ -98,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
