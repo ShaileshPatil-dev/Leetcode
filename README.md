@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -105,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
