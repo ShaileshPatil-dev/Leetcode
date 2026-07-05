@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
