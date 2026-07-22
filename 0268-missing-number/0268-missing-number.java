@@ -1,30 +1,23 @@
 class Solution {
-   
-    public static int missingNumber(int[] arr) {
-        int i = 0;
-        while (i < arr.length) {
-            int correct = arr[i];
-            if (arr[i] < arr.length && arr[i] != arr[correct]) {
-                swap(arr, i , correct);
-            } else {
+    public int missingNumber(int[] nums) {
+        int i = 0 ;
+        while(i < nums.length)
+        {
+            int correctposition = nums[i];
+            if(nums[i]<nums.length && nums[i]!= nums[correctposition]){
+                int temp = nums[correctposition];
+                nums[correctposition]= nums[i];
+                nums[i]= temp;
+            }
+            else{
                 i++;
             }
         }
-
-        // search for first missing number
-        for (int index = 0; index < arr.length; index++) {
-            if (arr[index] != index) {
-                return index;
+        for(i=0;i<nums.length ; i++){
+            if(nums[i]!= i){
+                return i;
             }
         }
-
-        // case 2
-        return arr.length;
-    }
-
-    static void swap(int[] arr, int first, int second) {
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
+        return nums.length;
     }
 }
