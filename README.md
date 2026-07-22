@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
