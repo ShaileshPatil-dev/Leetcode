@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
