@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
