@@ -4,7 +4,7 @@ class Solution {
             return false;
         }
         HashMap<Character , Integer> map = new HashMap<>();
-        for(int i = 0 ; i < t.length();i++){
+        for(int i = 0 ; i < s.length();i++){
             char ch1 = s.charAt(i);
             char ch2 = t.charAt(i);
             map.put(ch1,map.getOrDefault(ch1,0)+1);
