@@ -17,11 +17,8 @@ class Solution {
 
         if (Character.toLowerCase(str.charAt(i)) != Character.toLowerCase(str.charAt(j))) {
             return false;}
-
-    else{
-        i++;
-        j--;
-        }
+            i++;
+            j--;
 
     }
 
