@@ -11,8 +11,7 @@ class Solution {
                 ans.append('o');
                 }
                 else{
-                    ans.append('a');
-                ans.append('l');
+                    ans.append("al");
                 }
             }
         }
