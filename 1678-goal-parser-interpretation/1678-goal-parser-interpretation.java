@@ -10,7 +10,7 @@ class Solution {
                 if(command.charAt(i+1)==')'){
                 ans.append('o');
                 }
-                else if(command.charAt(i+1)=='a'){
+                else{
                     ans.append('a');
                 ans.append('l');
                 }
