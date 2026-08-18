@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1678-goal-parser-interpretation](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
