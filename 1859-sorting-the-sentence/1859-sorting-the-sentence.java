@@ -9,12 +9,7 @@ class Solution {
             int pos= ch - '0';
             ans[pos-1] =word.substring(0,word.length()-1);
         }
-        for(int j = 0 ; j < ans.length ; j++){
-            builder.append(ans[j]);
-            if(j<ans.length-1){
-                    builder.append(" ");
-            }
-        }
-        return builder.toString();
+        return String.join(" ", ans);
+
     }
 }
