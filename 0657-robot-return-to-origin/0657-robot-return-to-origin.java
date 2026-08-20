@@ -17,9 +17,6 @@ class Solution {
                 X--;
             }
         }
-        if(X==0 && Y==0){
-            return true;
-        }
-        return false;
+        return X == 0 && Y == 0;
     }
 }
