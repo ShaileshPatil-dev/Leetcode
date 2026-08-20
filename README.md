@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1528-shuffle-string) |
