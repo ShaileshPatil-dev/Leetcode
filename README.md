@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0217-contains-duplicate) |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
