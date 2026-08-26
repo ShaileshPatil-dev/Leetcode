@@ -1,18 +1,33 @@
 class Solution {
-    public void sortColors(int[] sortedarray) {
-          for (int i = 0; i < sortedarray.length-1; i++) {
-               boolean flag = false;
-               for (int j = 1; j <= sortedarray.length-1-i; j++) {
-                    if (sortedarray[j]<sortedarray[j-1]) {
-                         int temp = sortedarray[j];
-                         sortedarray[j]= sortedarray[j-1];
-                         sortedarray[j-1]= temp;
-                         flag = true;
-                    }
-               }
-               if (!flag) {
-                    break;
-                    }
-          }
-              }
+
+    public void sortColors(int[] nums) {
+
+        int i = 0;
+        int j = 0;
+        int k = nums.length - 1;
+
+        while (j <= k) {
+
+            if (nums[j] == 0) {
+                swap(i, j, nums);
+                i++;
+                j++;
+            }
+
+            else if (nums[j] == 1) {
+                j++;
+            }
+
+            else {
+                swap(j, k, nums);
+                k--;
+            }
+        }
+    }
+
+    static void swap(int a, int b, int[] nums) {
+        int temp = nums[a];
+        nums[a] = nums[b];
+        nums[b] = temp;
+    }
 }
