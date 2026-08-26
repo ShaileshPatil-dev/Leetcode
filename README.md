@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0867-transpose-matrix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0441-arranging-coins) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
