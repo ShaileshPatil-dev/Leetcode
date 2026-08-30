@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0338-counting-bits) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
