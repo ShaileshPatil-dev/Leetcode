@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 ## String
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0338-counting-bits) |
 ## Enumeration
 |  |
 | ------- |
