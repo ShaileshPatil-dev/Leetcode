@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0268-missing-number) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -334,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0342-power-of-four) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
