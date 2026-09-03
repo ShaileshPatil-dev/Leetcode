@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
