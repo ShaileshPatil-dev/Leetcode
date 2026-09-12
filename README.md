@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0125-valid-palindrome) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
