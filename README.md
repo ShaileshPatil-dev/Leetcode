@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1528-shuffle-string) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
