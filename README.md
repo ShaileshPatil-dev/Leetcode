@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
