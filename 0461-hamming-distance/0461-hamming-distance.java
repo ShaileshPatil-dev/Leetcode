@@ -1,13 +1,13 @@
 class Solution {
     public int hammingDistance(int x, int y) {
-      int count = 0;
-      while(x>0 || y > 0){
-        if((x&1) != (y&1)){
-            count++;
+        int XOR_Ans = x ^ y ;
+        int count = 0;
+        while(XOR_Ans > 0){
+            if((XOR_Ans & 1) == 1){
+                count++;
+            }
+            XOR_Ans = XOR_Ans >> 1;
         }
-        x=x>>1;
-        y=y>>1;
+        return count;
     }
-    return count;
-}
 }
