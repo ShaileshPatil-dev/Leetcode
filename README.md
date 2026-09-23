@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1859-sorting-the-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3110-score-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
