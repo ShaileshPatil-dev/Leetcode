@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [2769-find-the-maximum-achievable-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
