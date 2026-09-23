@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2965-find-missing-and-repeated-values](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Simulation
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
