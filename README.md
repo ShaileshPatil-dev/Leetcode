@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sliding Window
 |  |
