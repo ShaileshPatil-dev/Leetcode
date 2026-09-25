@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [2396-strictly-palindromic-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bit Manipulation
 |  |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
