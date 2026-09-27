@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
