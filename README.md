@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Counting
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Quicksort
 |  |
 | ------- |
