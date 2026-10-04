@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bit Manipulation
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3498-reverse-degree-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
