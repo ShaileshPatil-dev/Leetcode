@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1704-determine-if-string-halves-are-alike](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2942-find-words-containing-character](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sorting
