@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2390-removing-stars-from-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
