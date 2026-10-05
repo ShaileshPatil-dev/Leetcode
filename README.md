@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2235-add-two-integers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2235-add-two-integers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
