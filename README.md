@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1816-truncate-sentence) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
