@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3467-transform-array-by-parity) |
