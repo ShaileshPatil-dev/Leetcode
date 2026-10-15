@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0896-monotonic-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1051-height-checker) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0922-sort-array-by-parity-ii](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0645-set-mismatch) |
+| [0922-sort-array-by-parity-ii](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
