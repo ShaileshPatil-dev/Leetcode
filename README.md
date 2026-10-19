@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2390-removing-stars-from-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
