@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 class Solution {
     public String decodeMessage(String key, String message) {
         String ogkey = key.replaceAll("\\s", "");
