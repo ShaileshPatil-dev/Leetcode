@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1720-decode-xored-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1816-truncate-sentence) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
