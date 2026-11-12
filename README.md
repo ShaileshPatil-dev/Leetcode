@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3895-count-digit-appearances](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4020-elevator-requests-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3498-reverse-degree-of-a-string](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [4020-elevator-requests-i](https://github.com/ShaileshPatil-dev/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Prefix Sum
 |  |
 | ------- |
